@@ -4,9 +4,7 @@
 - 数据集: TumEmo；
   - 下载地址：https://pan.baidu.com/share/init?surl=F5d1urf67-yaSy-tcsS_4A
   - 提取码：88il
+- 运行环境：Ubuntu 20.04   GPU: Tesla A100 80G   CUDA 11.2 CUDNN 8.4   Python3.8
 - 安装依赖环境：`pip install requirements.txt`
 - 运行方式：`sh run.sh`
   - 需要将下载后的数据集解压放到 `data/`  路径下（即：`data/all_data/`）
-
-
-
